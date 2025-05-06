@@ -1,0 +1,12 @@
+# Ignore simulation and Quartus files
+*.vcd
+*.log
+*.wlf
+*.smsg
+*.bak
+.vscode/
+db/
+incremental_db/
+*.qpf
+*.qsf
+*.sdc
