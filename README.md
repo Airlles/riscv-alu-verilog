@@ -27,3 +27,15 @@ riscv_cpu_project/
 ├── docs/             # (Optional) block diagrams or notes
 ├── .gitignore        # Ignoring Quartus artifacts
 └── README.md         # This file
+
+---
+
+## 🔭 What's Next (Future Work)
+
+This ALU module is the first step in a complete 5-stage pipelined RISC-V CPU project. Planned future additions include:
+
+- [ ] Program Counter (PC)
+- [ ] Register File
+- [ ] Instruction Decoder (Control Unit + Immediate Generator)
+- [ ] Full Datapath Integration
+- [ ] Pipeline Registers (5-Stage CPU Structure)
