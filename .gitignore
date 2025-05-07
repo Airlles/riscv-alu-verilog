@@ -1,12 +1,18 @@
-# Ignore simulation and Quartus files
-*.vcd
-*.log
-*.wlf
-*.smsg
-*.bak
-.vscode/
-db/
-incremental_db/
+# Quartus-generated files
+alu_project/
 *.qpf
 *.qsf
-*.sdc
+*.rpt
+*.bak
+*.wlf
+*.vcd
+*.tcl
+*.lock
+*.smsg
+
+# Ignore simulation output
+*.log
+*.out
+
+# VS Code settings
+.vscode/
